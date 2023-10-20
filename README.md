@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tobaebangz
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on all software engineering programmes 
+- 👀 I’m a Data Analyst 
+- 🌱 I’m currently learning improving my data analysis skills
+- 💞️ I’m looking to collaborate with other data analysts
 - 📫 How to reach me taiwojohn260@gmail.com 
 
 <!---
