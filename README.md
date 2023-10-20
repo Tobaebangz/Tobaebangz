@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tobaebangz
+- 👋 Hi, I’m Tobi Taiwo
 - 👀 I’m a Data Analyst 
 - 🌱 I’m currently learning improving my data analysis skills
 - 💞️ I’m looking to collaborate with other data analysts
